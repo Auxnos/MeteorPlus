@@ -28,3 +28,7 @@
 - HighwayTracer: Creates a tracer and a block to the specified highway.
 - Speed: Working Speed exploit on 2b2t and Constantiam.
 - WaterSpeed: Increases your movement speed inside of water or lava.
+- EntityControlBypass: Attempts to bypass all anti-EntityControl methods.
+- AutoCrystalV2: A better auto-crystal method.
+- ElytraReplace: Replaces your elytra when it runs out of durability, and notifies you in chat and with a sound when it has low durability.
+- Scaffold: Working scaffold method on 2b2t and other servers.
