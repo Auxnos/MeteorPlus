@@ -32,3 +32,6 @@
 - AutoCrystalV2: A better auto-crystal method.
 - ElytraReplace: Replaces your elytra when it runs out of durability, and notifies you in chat and with a sound when it has low durability.
 - Scaffold: Working scaffold method on 2b2t and other servers.
+
+# Other stuff
+I am new-ish to Java (9 months), but I try and make everything not have any issues, so please don't rip on me for being bad at coding.
