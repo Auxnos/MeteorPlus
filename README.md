@@ -27,3 +27,4 @@
 - ElytraFly2b2t: Control ElytraFlight made for 2b2t (Highway & Open-Air).
 - HighwayTracer: Creates a tracer and a block to the specified highway.
 - Speed: Working Speed exploit on 2b2t and Constantiam.
+- WaterSpeed: Increases your movement speed inside of water or lava.
